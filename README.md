@@ -6,7 +6,7 @@ Este é um projeto de **página de login** inspirado no estilo do Netflix, criad
 
 ## 🔗 Link do Projeto
 
-- Repositório GitHub: [(https://gustavomiec.github.io/netflix_login_PROA/)]
+- Repositório GitHub: https://gustavomiec.github.io/netflix_login_PROA/
 
 ---
 
